@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @script-mouse
 - 👀 I’m interested in writing code to solve problems
 - 🌱 I’m currently learning how to program in C
-- 💞️ I’m looking to collaborate on refining the UI/UX for my gas-as-units project
+- 💞️ I’m looking to collaborate on refining the UI/UX for my car-consumption project
 - 📫 Reach me at brygidarichcreek@gmail.com
 
 <!---
